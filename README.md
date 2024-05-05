@@ -1,8 +1,5586 @@
-
 local args = {
-    [1] = "Fishing",
-    [2] = "Caught",
-    [3] = true
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
 }
 
-game:GetService("ReplicatedStorage"):WaitForChild("Game"):WaitForChild("Remotes"):WaitForChild("ServerHandler"):FireServer(unpack(args))
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+local args = {
+    [1] = 1,
+    [2] = 0,
+    [3] = workspace:WaitForChild("enemy"):WaitForChild("scene6"):WaitForChild("enemy33")
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("Events"):WaitForChild("Action"):WaitForChild("CombatEndEvent"):FireServer(unpack(args))
+
+
