@@ -1,0 +1,133 @@
+local HttpService = game:GetService("HttpService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+
+local Webhook_URL = "https://discord.com/api/webhooks/1296563182738866257/ctnUUHRdmxrybdjgsf2sUK5E9JbKqqapq96z4ycRUcL-JZ113wkSIdI7NA3SpoI6dkIr"
+
+local SendReportEvent = ReplicatedStorage:FindFirstChild("SendReport")
+if not SendReportEvent then
+    SendReportEvent = Instance.new("RemoteEvent")
+    SendReportEvent.Name = "SendReport"
+    SendReportEvent.Parent = ReplicatedStorage
+end
+
+local lastReportTime = {}
+local dailyReportCount = {}
+local playerReports = {}
+local chatLogs = {}
+
+local function sendToDiscord(reporterName, reportedUsername, reason, chatLog)
+    local body = {
+        ["embeds"] = {{
+            ["title"] = "Player Report",
+            ["description"] = "**Report Details:**\n" ..
+            "**Reporter:** " .. reporterName .. "\n" ..
+            "**Reported Player:** " .. reportedUsername .. "\n" ..
+            "**Reason:** " .. reason .. "\n" ..
+            "**Chat Log:**\n" .. chatLog,
+            ["color"] = tonumber(0xff0000)
+        }}
+    }
+
+    local success, err = pcall(function()
+        HttpService:PostAsync(Webhook_URL, HttpService:JSONEncode(body), Enum.HttpContentType.ApplicationJson)
+    end)
+
+    if success then
+        print("Report sent to Discord successfully.")
+    else
+        warn("Failed to send report to Discord: " .. err)
+    end
+end
+
+local function showMessageAbovePlayer(player, text, color)
+    local messageLabel = Instance.new("BillboardGui")
+    messageLabel.Parent = player.Character
+    messageLabel.Size = UDim2.new(0, 200, 0, 50)
+    messageLabel.StudsOffset = Vector3.new(0, 3, 0)
+    messageLabel.Adornee = player.Character:FindFirstChild("Head")
+    messageLabel.AlwaysOnTop = true
+
+    local textLabel = Instance.new("TextLabel")
+    textLabel.Text = text
+    textLabel.TextColor3 = color
+    textLabel.Font = Enum.Font.SourceSansBold
+    textLabel.TextSize = 30
+    textLabel.Size = UDim2.new(1, 0, 1, 0)
+    textLabel.BackgroundTransparency = 1
+    textLabel.Parent = messageLabel
+
+    wait(5)
+    messageLabel:Destroy()
+end
+
+Players.PlayerAdded:Connect(function(player)
+    chatLogs[player.Name] = {}
+
+    player.Chatted:Connect(function(message)
+        table.insert(chatLogs[player.Name], message)
+        if #chatLogs[player.Name] > 10 then
+            table.remove(chatLogs[player.Name], 1)
+        end
+    end)
+end)
+
+SendReportEvent.OnServerEvent:Connect(function(player, reportedUsername, reason)
+    if not player or not reportedUsername or not reason then
+        warn("Invalid report data received.")
+        return
+    end
+
+    local currentTime = os.time()
+    local playerName = player.Name
+    local today = os.date("%Y-%m-%d", currentTime)
+
+    local reportedPlayer = Players:FindFirstChild(reportedUsername)
+    if not reportedPlayer then
+        print("Error: Reported player not found.")
+        showMessageAbovePlayer(player, "اليوزر غير موجود.", Color3.new(1, 0, 0))
+        return
+    end
+
+    if lastReportTime[playerName] and (currentTime - lastReportTime[playerName]) < 60 then
+        print("Error: You need to wait before sending another report.")
+        showMessageAbovePlayer(player, "يجب الانتظار قبل إرسال بلاغ جديد.", Color3.new(1, 0, 0))
+        return
+    end
+
+    if playerReports[playerName] and playerReports[playerName][reportedUsername] and playerReports[playerName][reportedUsername] == today then
+        print("Error: You have already reported this player today.")
+        showMessageAbovePlayer(player, "لقد أبلغت عن هذا اللاعب اليوم.", Color3.new(1, 0, 0))
+        return
+    end
+
+    if not dailyReportCount[playerName] then
+        dailyReportCount[playerName] = {count = 0, date = today}
+    end
+
+    if dailyReportCount[playerName].date ~= today then
+        dailyReportCount[playerName] = {count = 0, date = today}
+    end
+
+    if dailyReportCount[playerName].count >= 10 then
+        print("Error: You have reached your daily report limit of 10 reports.")
+        showMessageAbovePlayer(player, "وصلت إلى الحد اليومي للبلاغات.", Color3.new(1, 0, 0))
+        return
+    end
+
+    local chatLog = ""
+    if chatLogs[reportedUsername] then
+        chatLog = table.concat(chatLogs[reportedUsername], "\n")
+    end
+
+    sendToDiscord(playerName, reportedUsername, reason, chatLog)
+    showMessageAbovePlayer(player, "تم إرسال البلاغ بنجاح.", Color3.new(0, 1, 0))
+
+    lastReportTime[playerName] = currentTime
+    dailyReportCount[playerName].count = dailyReportCount[playerName].count + 1
+
+    if not playerReports[playerName] then
+        playerReports[playerName] = {}
+    end
+    playerReports[playerName][reportedUsername] = today
+end)
