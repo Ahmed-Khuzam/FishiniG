@@ -3,7 +3,6 @@ local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
--- Create a RemoteEvent for kicking players
 local shutdownKickEvent = Instance.new("RemoteEvent")
 shutdownKickEvent.Name = "ShutdownKickEvent"
 shutdownKickEvent.Parent = ReplicatedStorage
