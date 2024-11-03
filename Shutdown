@@ -1,11 +1,15 @@
- 
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local MessagingService = game:GetService("MessagingService")
 
 local shutdownKickEvent = Instance.new("RemoteEvent")
 shutdownKickEvent.Name = "ShutdownKickEvent"
 shutdownKickEvent.Parent = ReplicatedStorage
+
+local function broadcastShutdownCountdown(number)
+    MessagingService:PublishAsync("StartShutdownCountdown", number)
+end
 
 local function displayShutdownCountdown(number)
     for _, player in ipairs(Players:GetPlayers()) do
@@ -29,11 +33,11 @@ local function displayShutdownCountdown(number)
             textLabel.Size = UDim2.new(1, 0, 1, 0)
             textLabel.Position = UDim2.new(0, 0, 0, 0)
             textLabel.BackgroundTransparency = 1
-            textLabel.TextColor3 = Color3.new(0, 0, 0) -- لون النص أسود
+            textLabel.TextColor3 = Color3.new(0, 0, 0)
             textLabel.Font = Enum.Font.GothamBold
             textLabel.TextSize = 32
             textLabel.TextStrokeTransparency = 0.5
-            textLabel.TextStrokeColor3 = Color3.fromRGB(255, 255, 255) -- لون حواف الكتابة أبيض
+            textLabel.TextStrokeColor3 = Color3.fromRGB(255, 255, 255)
             textLabel.Parent = frame
             
             local corner = Instance.new("UICorner")
@@ -41,26 +45,23 @@ local function displayShutdownCountdown(number)
             corner.Parent = frame
             
             local stroke = Instance.new("UIStroke")
-            stroke.Color = Color3.fromRGB(255, 255, 255) -- لون الحواف أبيض
+            stroke.Color = Color3.fromRGB(255, 255, 255)
             stroke.Thickness = 2
             stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
             stroke.Parent = frame
             
-            -- اجعل الحواف مرئية طوال الوقت
             stroke.Enabled = true
             
             coroutine.wrap(function()
                 for i = number, 0, -1 do
                     textLabel.Text = "All Servers Will Shut Down in : " .. tostring(i)
                     
-                    -- تعديل حجم النص حسب الرقم
                     if tostring(i):len() > 2 then
                         textLabel.TextSize = 24
                     else
                         textLabel.TextSize = 32
                     end
                     
-                    -- ضبط موضع النص
                     textLabel.TextXAlignment = Enum.TextXAlignment.Center
                     
                     textLabel.TextTransparency = 1
@@ -70,27 +71,35 @@ local function displayShutdownCountdown(number)
                     fadeInTween:Play()
                     fadeInTween.Completed:Wait()
                     
-                    wait(0.75) -- عرض الرقم لفترة أطول (0.75 ثانية)
+                    wait(0.75)
                     
                     fadeOutTween:Play()
                     fadeOutTween.Completed:Wait()
                 end
                 
-                -- Once countdown is complete, kick the player
-                player:Kick("All Servers Have Been Shutdown. Rejoin!.") -- Directly kick the player
+                player:Kick("All Servers Have Been Shutdown. Rejoin!.")
                 screenGui:Destroy()
             end)()
         end
     end
 end
- 
+
+MessagingService:SubscribeAsync("StartShutdownCountdown", function(message)
+    local countdownNumber = message.Data
+    displayShutdownCountdown(countdownNumber)
+    
+    wait(5)
+    
+    MessagingService:PublishAsync("StartShutdownCountdown", countdownNumber)
+end)
+
 Players.PlayerAdded:Connect(function(player)
     player.Chatted:Connect(function(message)
         local command, number = message:match("^(CD) (%d+)$")
         number = tonumber(number)
         
         if command == "CD" and number then
-            displayShutdownCountdown(number)
+            broadcastShutdownCountdown(number)
         end
     end)
 end)
