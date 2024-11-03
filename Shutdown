@@ -1,0 +1,97 @@
+ 
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+
+-- Create a RemoteEvent for kicking players
+local shutdownKickEvent = Instance.new("RemoteEvent")
+shutdownKickEvent.Name = "ShutdownKickEvent"
+shutdownKickEvent.Parent = ReplicatedStorage
+
+local function displayShutdownCountdown(number)
+    for _, player in ipairs(Players:GetPlayers()) do
+        local playerGui = player:FindFirstChildOfClass("PlayerGui")
+        if playerGui then
+            local screenGui = Instance.new("ScreenGui")
+            screenGui.Name = "ShutdownCountdownGui"
+            screenGui.ResetOnSpawn = false
+            screenGui.Parent = playerGui
+            
+            local frame = Instance.new("Frame")
+            frame.Size = UDim2.new(0, 470, 0, 50)
+            frame.Position = UDim2.new(0.5, -225, 0, 10)
+            frame.BackgroundColor3 = Color3.fromRGB(20, 20, 20)
+            frame.BackgroundTransparency = 0.5
+            frame.BorderSizePixel = 0
+            frame.Parent = screenGui
+            
+            local textLabel = Instance.new("TextLabel")
+            textLabel.Name = "ShutdownCountdownLabel"
+            textLabel.Size = UDim2.new(1, 0, 1, 0)
+            textLabel.Position = UDim2.new(0, 0, 0, 0)
+            textLabel.BackgroundTransparency = 1
+            textLabel.TextColor3 = Color3.new(0, 0, 0) -- لون النص أسود
+            textLabel.Font = Enum.Font.GothamBold
+            textLabel.TextSize = 32
+            textLabel.TextStrokeTransparency = 0.5
+            textLabel.TextStrokeColor3 = Color3.fromRGB(255, 255, 255) -- لون حواف الكتابة أبيض
+            textLabel.Parent = frame
+            
+            local corner = Instance.new("UICorner")
+            corner.CornerRadius = UDim.new(0.2, 0)
+            corner.Parent = frame
+            
+            local stroke = Instance.new("UIStroke")
+            stroke.Color = Color3.fromRGB(255, 255, 255) -- لون الحواف أبيض
+            stroke.Thickness = 2
+            stroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+            stroke.Parent = frame
+            
+            -- اجعل الحواف مرئية طوال الوقت
+            stroke.Enabled = true
+            
+            coroutine.wrap(function()
+                for i = number, 0, -1 do
+                    textLabel.Text = "All Servers Will Shut Down in : " .. tostring(i)
+                    
+                    -- تعديل حجم النص حسب الرقم
+                    if tostring(i):len() > 2 then
+                        textLabel.TextSize = 24
+                    else
+                        textLabel.TextSize = 32
+                    end
+                    
+                    -- ضبط موضع النص
+                    textLabel.TextXAlignment = Enum.TextXAlignment.Center
+                    
+                    textLabel.TextTransparency = 1
+                    local fadeInTween = TweenService:Create(textLabel, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {TextTransparency = 0})
+                    local fadeOutTween = TweenService:Create(textLabel, TweenInfo.new(0.15, Enum.EasingStyle.Quad, Enum.EasingDirection.In), {TextTransparency = 1})
+                    
+                    fadeInTween:Play()
+                    fadeInTween.Completed:Wait()
+                    
+                    wait(0.75) -- عرض الرقم لفترة أطول (0.75 ثانية)
+                    
+                    fadeOutTween:Play()
+                    fadeOutTween.Completed:Wait()
+                end
+                
+                -- Once countdown is complete, kick the player
+                player:Kick("All Servers Have Been Shutdown. Rejoin!.") -- Directly kick the player
+                screenGui:Destroy()
+            end)()
+        end
+    end
+end
+ 
+Players.PlayerAdded:Connect(function(player)
+    player.Chatted:Connect(function(message)
+        local command, number = message:match("^(CD) (%d+)$")
+        number = tonumber(number)
+        
+        if command == "CD" and number then
+            displayShutdownCountdown(number)
+        end
+    end)
+end)
